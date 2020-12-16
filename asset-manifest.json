@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/album-art-downloader/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/album-art-downloader/static/js/main.eeafdccf.chunk.js",
+    "main.js.map": "/album-art-downloader/static/js/main.eeafdccf.chunk.js.map",
+    "runtime-main.js": "/album-art-downloader/static/js/runtime-main.5117469d.js",
+    "runtime-main.js.map": "/album-art-downloader/static/js/runtime-main.5117469d.js.map",
+    "static/js/2.d02beab5.chunk.js": "/album-art-downloader/static/js/2.d02beab5.chunk.js",
+    "static/js/2.d02beab5.chunk.js.map": "/album-art-downloader/static/js/2.d02beab5.chunk.js.map",
+    "static/js/3.8a54d3d4.chunk.js": "/album-art-downloader/static/js/3.8a54d3d4.chunk.js",
+    "static/js/3.8a54d3d4.chunk.js.map": "/album-art-downloader/static/js/3.8a54d3d4.chunk.js.map",
+    "index.html": "/album-art-downloader/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/album-art-downloader/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.d02beab5.chunk.js.LICENSE.txt": "/album-art-downloader/static/js/2.d02beab5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5117469d.js",
+    "static/js/2.d02beab5.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.eeafdccf.chunk.js"
+  ]
+}
